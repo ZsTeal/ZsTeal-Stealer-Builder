@@ -1,6 +1,5 @@
   <div align="center">
   <div>
-    <img  src="https://i.imgur.com/Dld6lw5.png">
   </div>
   </div> 
 
@@ -8,7 +7,6 @@
 
  
 <p align="center">
-  Telegram: https://t.me/CrealStealer
   <br>
   🔥 Join Telegram for support and contact 🔥
 <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
